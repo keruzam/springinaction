@@ -1,0 +1,4 @@
+1. class not found exception - Project->Properties->Deployment Assembly->Java build path entries->Maven Dependecies
+2. default context name in WEB-INF must be applicationContext.xml
+3. Project Faces (java17, dynamic web module 4)
+4.
